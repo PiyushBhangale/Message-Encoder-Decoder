@@ -10,6 +10,10 @@ Ei = (Pi + Ki) mod 26
 Decryption
 Di = (Ei - Ki + 26) mod 26
 ```
+### Preview
+![alt text](https://github.com/PiyushBhangale/Message-Encoder-Decoder/blob/master/Screenshot%20from%202019-06-06%2018-25-59.png)
+
+
 ### Modules used in the project
 
   - Tkinter  -> GUI toolkit
